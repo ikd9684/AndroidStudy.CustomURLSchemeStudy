@@ -23,8 +23,8 @@
 
                 <data
                     android:scheme="ikd9684"
-                    android:host="current"
-                    android:path="/Main" />
+                    android:host="main"
+                    android:path="/MainTop" />
             </intent-filter>
 
         </activity>
